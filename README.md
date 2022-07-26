@@ -1,7 +1,7 @@
 
 # Simple Website Portfolio 
 
-This is a simple website portfolio using only HTML. 
+This is a simple website portfolio using only HTML and basic CSS.
 
 ## Features
 
