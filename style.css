@@ -1,0 +1,61 @@
+body {
+    background-color: #fae5df;
+}
+
+.heading {
+    color: #ed7966;
+}
+
+.name {
+    font-style: italic;
+}
+
+.subtitle {
+    color: #303179;
+}
+
+.subtitle-3 {
+    color: #ed7966;
+}
+
+hr {
+    border: 1px solid #ed7966;
+}
+
+fieldset {
+    border:1px solid #ed7966;
+    color: #141850;
+}
+  
+legend {
+    font-size: 20px;
+}
+  
+input[type=text] {
+    height: 20px;
+    border-radius: 5px;
+    color: #ed7966;
+}
+
+input[type=email] {
+    height: 20px;
+    border-radius: 5px;
+    color: #ed7966;
+}
+  
+textarea {
+    border-radius: 4px;
+    color: #ed7966;
+}
+  
+button {
+    background-color: #ed7966;
+    color: #141850;
+    font-size: 18px;
+    border: none;
+}
+
+.copyright {
+    text-align: center;
+    color: #ed7966;
+}
